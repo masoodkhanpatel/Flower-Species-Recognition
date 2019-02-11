@@ -12,7 +12,7 @@ The model has been trained on Google Colab using [`densenet161`](https://pytorch
 ```
 Flower Species Project.ipynb
 ```
-![](assets/inference_example.png)
+![](https://raw.githubusercontent.com/resilientmax/Flower-Species-Recognition/master/assets/index.png)
 
 ---
 For testing using commandline, we can use the checkpoint we saved in the above notebook.
